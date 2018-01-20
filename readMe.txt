@@ -1,0 +1,1 @@
+Read dir struct
